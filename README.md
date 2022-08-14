@@ -23,7 +23,7 @@ Download and run `Visualized.exe`
 
 Click the video below to view.
 
-[![Watch the video](https://img.youtube.com/vi/XZR3rKZ1UTM/maxresdefault.jpg)](https://www.youtube.com/watch?v=XZR3rKZ1UTM)
+<a href="https://www.youtube.com/watch?v=XZR3rKZ1UTM" target="_blank"><img src="https://img.youtube.com/vi/XZR3rKZ1UTM/maxresdefault.jpg" width=50%></a>
 
 In the demonstration above, the composite matrix transformation $M_{3}\cdot M_{2}\cdot M_{1}$ is applied to the vectors $\vec{v_{1}}$ and $\vec{v_{2}}$.
 
