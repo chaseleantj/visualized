@@ -1,6 +1,8 @@
 # Visualized
 
-A tool that animates 2D linear transformations. 
+A tool that animates 2D linear transformations.
+
+<img src="resources/demo.jpg">
 
 ## Table of contents
 * [General info](#general-info)
