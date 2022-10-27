@@ -48,4 +48,4 @@ $$
 
 The animation for the above transformation will look like a reflection instead of a rotation. I have manually written code to detect rotations and animate them as such, but a better approach would be to use quaternions, which I have yet to implement.
 
-Also, panning by clicking and dragging and zooming with the mouse wheel is not supported. I have enabled it in a later project, Flow Field, which aims to visualize vector fields. If you liked this program, you'll enjoy Flow Field. You can find it here.
+Also, panning by clicking and dragging and zooming with the mouse wheel is not supported. I have enabled it in a later project, Flow Field, which aims to visualize vector fields. If you liked this program, you'll enjoy Flow Field. You can find it <a href="https://github.com/ChaseLean/flow-field">here</a>.
